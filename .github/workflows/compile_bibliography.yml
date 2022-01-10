@@ -24,3 +24,9 @@ jobs:
     - name: Run script
       run: |
         python main.py
+    - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "[Bot] Compliles and commits bibliography!"
+          commit_user_name: Nikoleta-v3
+          commit_user_email: glynatsi@evolbio.mpg.de
+          commit_author: Nikoleta-v3
