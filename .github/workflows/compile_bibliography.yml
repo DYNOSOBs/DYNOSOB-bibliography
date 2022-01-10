@@ -19,7 +19,7 @@ jobs:
     - name: Install bibtexparser
       run: |
         python -m pip install --upgrade pip
-        pip install bibtexparser
+        python -m pip install bibtexparser
     - name: Compile bibliography
       run: |
         python main.py
