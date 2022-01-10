@@ -12,7 +12,11 @@ jobs:
         python-version: ["3.8"]
 
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v2
+    - name: Use Node.js 14.x
+      uses: actions/setup-node@v2
+      with:
+        node-version: 14.x
     - name: Set up Python ${{ matrix.python-version }}
       uses: actions/setup-python@v1
       with:
@@ -28,5 +32,5 @@ jobs:
       with:
         add: bibtex.bib
         author_name: BOT
-        author_email: glynatsi@evolbio.mpg.de
+        author_email:
         message: '[BOT] commits bibtex.bib'
