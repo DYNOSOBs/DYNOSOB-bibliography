@@ -1,0 +1,11 @@
+@comment{A paper on the evolution of extortion}
+@article{hilbe:PNAS:2013,
+  title={Evolution of extortion in iterated prisoner’s dilemma games},
+  author={Hilbe, Christian and Nowak, Martin A and Sigmund, Karl},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={110},
+  number={17},
+  pages={6913--6918},
+  year={2013},
+  publisher={National Acad Sciences},
+}
