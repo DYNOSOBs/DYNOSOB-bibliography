@@ -1,0 +1,629 @@
+# Journal Abbreviations in Alphabetic order
+
+## A ##
+
+-  **AAM** - Acta Applicandae Mathematicae
+-  **AAP** - Advances in Applied Probability
+-  **AB** - Animal Behaviour
+-  **AC** - Animal Conservation
+-  **AO** - Abel's Ouvres
+-  **ACR** - Accounts of chemical research
+-  **ACSS** - Acta chirurgica Scandinavica. Supplementum.
+-  **AGSM** - Acta Genetica et Statistica Medica
+-  **ACP** - Advances in Chemical Physics
+-  **ACSSynBio** - ACS Synthetic Biology
+-  **ACS** - Advances in Complex Systems
+-  **AEM** - Applied and Environmental Microbiology
+-  **AE** - Aquatic ecology
+-  **AG** - Advances in Genetics
+-  **AHG** - Annals of human genetics
+-  **ALIJL** - Annales de Limnologie-International Journal of Limnology
+-  **AME** - Advances in Microbial Ecology
+-  **AP** - Advances in Physics
+-  **ASB** - Advances in the Study of Behaviorplos
+-  **ActaP** - Acta Psychologica
+-  **ActaB** - Acta Biotheoretica
+-  **ASB** - Advances in the Study of Behavior
+-  **ALG** - Algorithms
+-  **AER** - American Economic Review
+-  **AJH** - American Journal of Hematology
+-  **AJODO** - American Journal of Orthodontics and Dentofacial Orthopedics : official publication of the American Association of Orthodontists, its constituent societies, and the American Board of Orthodontics
+-  **AJPA** - American Journal of Physical Anthropology
+-  **AJP** - American Journal of Physics
+-  **AJS** - American Journal of Sociology
+-  **AJTMH** - American Journal of Tropical Medicine and Hygiene
+-  **AMS** - American Mathematical Society -  Providence
+-  **AM** - Acta Mathematica
+-  **AMNAT** - The American Naturalist
+-  **AR** - The Anatomical Record. Part A, Discoveries in molecular, cellular, and evolutionary biology
+-  **AE** - Annals of Eugenics
+-  **ARES** - Annual Review of Ecology and Systematics
+-  **AESA** - Annals of the Entomological Society of America
+-  **AnthR** - Anthropological Review
+-  **AHB** - Annals of Human Biology
+-  **AnAP** - Annals of Applied Probability
+-  **ANAS** - Annals of the N.Y. Academy of Sciences
+-  **ANMS** - Annals of Mathematical Statistics
+-  **AM** - Annals of Mathematics
+-  **ANPh** - Annals of Physics
+-  **ANPr** - Annales of Probability
+-  **AOR** - The Angle Orthodontist
+-  **ARCDB** - Annual Review of Cell and Developmental Biology
+-  **ARE** - Annual Review of Entomology
+-  **AREPS** - Annual Review of Earth and Planetary Sciences
+-  **AREES** - Annual Review of Ecology -  Evolution -  and Systematics
+-  **ARG** - Annual Review of Genetics
+-  **ARI** - Annual Review of Immunology
+-  **ARM** - Annual Review of Microbiology
+-  **ARN** - Annual Review of Neuroscience
+-  **ARP** - Annual Review of Psychology
+-  **ARPB** - Annual Review of Plant Biology
+-  **ARPh** - Annual Review of Phytopathology
+-  **ARPMD** - Annual Review of Pathology: Mechanisms of Disease
+-  **ARS** - Annual Review of Sociology
+-  **AVL** - Antonie Van Leeuwenhoek
+-  **AML** - Applied Math. Letters
+-  **AppMB** - Applied Microbiology and Biotechnology
+-  **ANM** - Applied Numerical Mathematics
+-  **AqB** - Aquatic Biology
+-  **arxiv** - arXiv
+-  **AREPS** - Annual Review of Earth and Planetary Sciences
+-  **ASH** - ASH Annual Meeting Abstracts
+-  **ASPU** - Anzeiger fÃ¼r SchÃ¤dlingskunde Pflanzenschutz Umweltschutz
+-  **ASR** - American Sociological Review
+-  **AI** - Artificial Intelligence
+-  **AMJ** - Australian Medical Journal
+
+## B ##
+
+-  **B** - Biologia
+-  **BAMS** - Bulletin of the American Mathematical Society
+-  **BanachC** - Banach Center Publications
+-  **BBS** - Behavioral and Brain Sciences
+-  **BC** - Biological Cybernetics
+- **BCo** - Biological Control
+-  **BD** - Biology Direct
+-  **BE** - Behavioral Ecology
+-  **Behaviour** - Behaviour
+-  **BES** - Behavioral Ecology and Sociobiology
+-  **BESA** - Bulletin of the Entomological Society of America
+-  **BioEssays** - BioEssays
+-  **BI** - Bioinformatics
+-  **BioInv** - Biological Invasions
+-  **BioRisk** - BioRisk
+-  **bioRxiv** - bioRxiv
+-  **BioScience** - BioScience
+-  **BioSys** - BioSystems
+-  **BiuZ** - Biologie in unserer Zeit
+-  **BCJ** - Biochemical Journal
+-  **BJ** - Biophysical Journal
+-  **BJC** - British Journal of Cancer
+-  **BJH** - British Journal of Haematologie
+-  **BJPS** - British Journal for the Philosophy of Science
+-  **BL** - Biology Letters
+-  **Blood** - Blood
+-  **BA** - Blood Advances
+-  **BR** - Blood Reviews
+-  **BMB** - Bulletin of Mathematical Biology
+-  **BMBp** -Bulletin of Mathematical Biophysics
+-  **BMJ** - BMJ
+-  **BMCBio** - BMC Biology
+-  **BMCBioinfo** - BMC Bioinformatics
+-  **BMCBiotech** - BMC Biotechnology
+-  **BMCCancer** - BMC Cancer
+-  **BMCEcoEvo** - BMC Ecology and Evolution
+-  **BMCEvolBio** - BMC Evolutionary Biology
+-  **BMCGenomics** - BMC Genomics
+-  **BMCMicro** - BMC Microbiology
+-  **BMCP** - BMC Proceedings
+-  **BoC** - Bioorganic Chemistry
+-  **BP** - Biology and Philosophy
+-  **BR** - Biological Reviews
+-  **BSTJ** - Bell System Technical Journal
+-  **BT** - Biological Theory
+
+## C ##
+
+-  **CA** - Current Anthropology
+-  **CACM** - Communications of the ACM
+-  **CB** - Current Biology
+-  **CC** - Cancer Cell
+-  **CD** - Cancer Discovery
+-  **CCY** - Cell Cycle
+-  **CG** - Clinical Genetics
+-  **Chaos** - Chaos
+-  **Challenge** - Challenge
+-  **CIB** - Communicative and Integrative Biology
+-  **CL** - Cancer Letters
+-  **Cell** - Cell
+- **CHM** - Cell Host and Microbe
+-  **CJC** - CA: a Cancer Journal for Clinicians
+-  **CJPS** - Canadian Journal of Plant Science
+-  **CJZ** - Canadian Journal of Zoology
+-  **CLEU** - Clinical Leukemia
+-  **CMLS** - Cellular and Molecular Life Sciences
+-  **CMR** - Clinical Microbiology Reviews
+-  **CN** - Computer Networks
+-  **CNSNS** - Communications in Nonlinear Science and Numerical Simulation
+-  **COCB** - Current opinion in chemical biology
+-  **COCE** - Computer and Chemistry
+-  **COGD** - Current opinion in Genetics and Development
+-  **Condor** - The Condor
+-  **COGE** - Conservation Genetics
+-  **CSHPB** - Cold Spring Harbor perspectives in biology
+-  **COG** - Current Opinion in Gastroenterology
+-  **COM** - Complexity
+-  **COMB** - Current Opinion in Microbiology
+-  **COMMSB** - Communications Biology
+-  **CON** - Current Opinion in Neurobiology
+-  **COSB** - Current Opinion in Structural Biology
+-  **COBS** - Current Opinion in Behavioral Sciences
+-  **COSysB** - Current Opinion in Systems Biology
+-  **COPB** - Current Opinion in Plant Biology
+-  **Connections** - Connections
+-  **CoPrCo** - Combinatorics -  Probability and Computing
+-  **CP** - Cell Prolife
+-  **CPR** - Cancer Prevention Research
+-  **CProlif** - Cell Proliferation
+-  **CPC** - Computer Physics Communications
+-  **CR** - Cancer Research
+-  **CRep** - Cell Reports
+-  **CRASP** - Comptes Rendus Acad. Sci. Paris
+-  **CRB** - Comptes Rendus Biologies
+-  **CRI** - Critical Reviews in Immunology
+- **CRISPR** - The CRISPR Journal
+-  **CS** - Cancer Science
+-  **CSDA** - Computational Statistics {\&} Data Analysis
+-  **CSF** - Chaos, Solitons & Fractals
+-  **CSR** - Chem. Soc. Rev.
+-  **CTK** - Cell and Tissue Kinetics
+-  **CTB** - Comment. Theoretical Biology
+-  **CTR** - Cell and Tissue Research 
+- **CSR** - Cognitive Systems Research
+- **CZ** - Current zoology
+-**COM** - Current Opinion in Microbiology
+
+## D - F ##
+
+-  **Development** - Development
+-  **DevBio** - Developmental Biology
+-  **DevCel** - Developmental cell
+-  **DevGen** - Developmental Genetics
+-  **DevPsy** - Developmental psychology
+-  **DR** - Demographic Research
+-  **DGAA** - Dynamic Games and Applications
+-  **DN** - Die Naturwissenschaften
+-  **EA** - Evolutionary Applications
+-  **EB** - Economics Bulletin
+-  **EC** - Ecological Complexity
+-  **EVC** - Evolutionary Computation
+-  **EL** - Ecology Letters
+-  **ECO** - Econometrica
+-  **Ecology** - Ecology
+-  **EconL** - Economic Letters
+-  **EcoS** - Ecosphere
+-  **Ecosystems** - Ecosystems
+-  **EE** - Ecological Economics
+-  **EaE** - Ecology and Evolution
+-  **eLIFE** - eLife Sciences
+-  **EEcR** - European Economic Review
+-  **eforLS** - Essential for Life Science
+-  **EFSA** - European Food Safety Authority (EU) Journal
+
+-  **EJP** - European Journal of Phycology
+-  **EEcol** - Evolutionary Ecology
+-  **EER** - Evolutionary Ecology Research
+-  **EHB** - Evolution and Human Behavior
+-  **EI** - Economic Inquiry
+-  **EJ** - The Economic Journal
+-  **EJI** - European Journal of Immunology
+-  **EJC** - European Journal of Cancer
+-  **ELS** - Encyclopedia of Life Sciences
+-  **EPL** - Europhysics Letters
+-  **EM** - Ecological Modelling
+-  **EMBO** - EMBO reports
+-  **EMono** - Ecological Monographs
+-  **EMPH** - Evolution, Medicine, and Public Health
+-  **EN** - Europhysics News
+-  **ENDM** - Electronic Notes in Discrete Mathematics
+-  **EnvM** - Environmental Miccrobiology
+-  **EP** - Endocrine Practice
+-  **EPJB** - The European Physical Journal B
+-  **ES** - Ethology and Sociobiology
+-  **ET** - Evolutionary Theory
+-  **Ethology** - Ethology
+-  **EukarCell** - Eukaryotic Cell
+-  **Evolution** - Evolution
+-  **ECR** - Experimental Cell Research
+-  **ExE** - Experimental Economics
+-  **F1000** - F1000Research
+-  **FE** - Functional Ecology
+-  **FEE** - Frontiers in Ecology and Evolution
+-  **FEBS** - The FEBS Journal
+-  **FEMSE** - FEMS Microbiology Ecology
+-  **FEMSL** - FEMS microbiology letters
+-  **FEMS** - FEMS microbiology reviews
+-  **FEV** - Food and Environmental Virology
+-  **Flora** - Flora
+-  **FLN** - Fluctuation and Noise Letters
+-  **FM** - Frontiers in Microbiology
+-  **Foods** - Foods
+-  **FPS** - Frontiers in plant science
+-  **FuOnco** - Future Oncology
+-  **FuMicro** - Future Microbiology
+
+## G - I ##
+
+-  **G3** - G3: Genes, Genomes, Genetics
+-  **Games** - Games
+-  **GC** - Genes and Cancer
+-  **GCB** - Global Change Biology
+-  **GEBG**- Global Ecology and Biogeography 
+-  **GandI** - Genes and Immunity
+-  **GEB** - Games and Economic Behavior
+-  **GEC** - Global Ecology and Conservation
+-  **Gene** - Gene
+-  **Genes** - Genes
+-  **GCC** - Genes, Chromosomes and Cancer
+-  **Genetics** - Genetics
+-  **Genetica** - Genetica
+-  **GB** - Genome Biology
+-  **GBE** - Genome Biology and Evolution
+-  **GenMed** - Genome Medicine
+-  **GenR** - Genome Research
+-  **GGG** - G3: Genes, Genomes and Genetics
+-  **GR** - Genetics Research
+-  **Genomics** - Genomics
+-  **GMS** - GMS current topics in otorhinolaryngology, head and neck surgery
+-  **GDN** - Group Decision and Negotiation
+-  **HHLM** - Handbook of Hydrocarbon and Lipid Microbiology
+-  **HAE** - Haematologica
+-  **HOC** - Hematology/Oncology Clinics of North America
+- **HBSN** - HepatoBiliary Surgery and Nutrition
+-  **Heredity** - Heredity
+-  **HI** - Human Immunology
+-  **HIS** - Histopathology
+-  **HH** - Histology and Histopathology
+-  **HP** - Hospital Practice (Minneap.)
+-  **IBMJRD** - IBM Journal of Research and Development
+-  **ICB** - Immunology and Cell Biology
+-  **ICDP** - 3rd International Conference on Imaging for Crime Detection and Prevention (ICDP 2009)
+-  **ICOMB** - Integrative and Comparative Biology
+-  **IDM** - Infectious Disease Modelling
+-  **IER** - International Economic Review
+-  **IF**   - Interface Focus
+-  **IG** - Immunogenetics
+-  **IGE** - Infection Genetics and Evolution
+-  **IGTR** - International Game Theory Review
+-  **IJBC** - International Journal of Bifurcation and Chaos in Appl. Sci. Eng.
+-  **IJCAI** - Proceedings of the 21st International Joint Conference on Artificial Intelligence (IJCAI)
+-  **IJCTA** - International Journal of Chaos Theory and Applications
+-  **IJCMS** - International Journal of Computational and Mathematical Sciences
+-  **IJGT** - International Journal of Game Theory
+-  **IJH** - International Journal of Hematology
+-  **IJfP** - International Journal for Parasitology
+-  **IJMMS** -  International Journal of Mathematics and Mathematical Sciences
+-  **IJP** - International Journal of Psychiatry
+-  **IL** - Immunology Letters
+-  **IPL** - Information Processing Letters
+-  **ISQ** - International Studies Quarterly
+-  **ITJP** - International Journal of Primatology
+-  **IJSEM** - International Journal of Systematic and Evolutionary Microbiology
+-  **ISME** - ISME Journal (Multidisciplinary Journal of Microbial Ecology)
+-  **ISci** - iScience
+-  **IUBMB** - IUBMB Life
+- **IRLE** - International Review of Law and Economics
+
+## J ##
+
+-  **JAE** - Journal of Animal Ecology
+-  **JAE** - Journal of Agricultural Entomology
+-  **JAEc** - Journal of Applied Ecology
+-  **JAM** - Journal of Applied Microbiology
+-  **JAMA** - The Journal of the American Medical Association
+-  **JAMAO** - JAMA Oncology
+-  **JAP** - Journal of Applied Probability
+-  **JAMS** - The Journal of the Australian Mathematical Society
+-  **JAS** - Journal of Agricultural Science
+-  **JB** - Journal of Biogeography
+-  **JBA** - Journal of Bacteriology
+-  **JBC** - Journal of Biological Chemistry
+-  **JBD** - Journal of Biological Dynamics
+-  **JBio** - Journal of Biology
+-  **JCB** - The Journal of Cell Biology
+-  **JCE** - Journal of Chemical Ecology
+-  **JCI** - Journal of Clinical Investigation
+-  **JCIEM** - Journal du conseil international pour l'exploration de la mer
+-  **JChemP** - The Journal of Chemical Physics
+-  **JCO** - Journal of Clinical Oncology
+-  **JCPath** - Journal of Clinical Pathology
+-  **JCPsy** - Journal of Comparative Psychology
+-  **JCGS** - Journal of Computational and Graphical Statistics
+-  **JCP** - Journal of Computational Physics
+-  **JCR** - Journal of Conflict Resolution
+-  **JCS** - Journal of Craniofacial Surgery
+- **JCF** - Journal of Cystic Fibrosis
+-  **JE** - Journal of Ecology
+-  **JEB** - Journal of Evolutionary Biology
+-  **JEBO** - Journal of Economic Behavior & Organization
+-  **JEE** - Journal of Evolutionary Economics
+-  **JEcnt** - Journal of Economic Entomology
+-  **JEL** - Journal of Economic Literature
+-  **JEM** - The Journal of Experimental Medicine
+-  **JEP** - Journal of Economic Perspectives
+-  **JET** - Journal of Economic Theory
+-  **JFB** - Journal of Fish Biology
+-  **JGO** - Journal of Global Optimization
+-  **JGP** - Journal of General Physiology
+-  **JGV** - Journal of General Virology
+-  **JH** - Journal of Heredity
+- **JHB** - journal of the history of biology
+-  **JI** - Journal of Immunology
+-  **JID** - Journal of Infectious Diseases
+-  **JIE** - Journal of Industrial Economics
+-  **JII** - Journal of Innate Immunity
+-  **JIP** - Journal of Invertebrate Pathology
+-  **JIPhys** - Journal of Insect Physiology
+-  **JIS** - Journal of Insect Science
+-  **JITE** - Journal of Institutional and Theoretical Economics
+-  **JMB** - Journal of Mathematical Biology
+-  **JMolBiol** - Journal of Molecular Biology
+-  **JME** - Journal of Mathematical Economics
+-  **JMoE** - Journal of Molecular Evolution
+-  **JMP** - Journal of Mathematical Physics
+-  **JMS** - Journal of Mathematical Sociology
+-  **JN** - Journal of Nutrition
+-  **JOSS** - The Journal of Open Source Software
+-  **JPara** - Journal of Parasitology
+-  **JP** - Journal of Physiology
+-  **JPA** - Journal of Physics A
+-  **JPC** - Journal of Physical Chemistry
+-  **JPE** - Journal of Public Economics
+-  **JPET** - Journal of Public Economic Theory
+-  **JPOE** - Journal of Political Economy
+-  **JPR** - Journal of plankton research
+-  **JPSP** - Journal of Personality and Social Psychology
+-  **JRI** - Journal of Responsible innovation
+-  **JRSI** - Journal of the Royal Society Interface
+-  **JRSOP** - Journal of the Royal Society Open Science
+-  **JRSSB** - Journal of the Royal Statistical Society: Series B
+-  **JRU** - Journal of Risk and Uncertainty
+-  **JSC** - Journal of Symbolic Computation
+-  **JSM** - Journal of Statistical Mechanics
+-  **JSP** - Journal of Statistical Physics
+-  **JSRR** - Journal of Scientific Research and Reports
+-  **JTB** - Journal of Theoretical Biology
+-  **JV** - Journal of Virology
+-  **JVVNW** - Jahreshefte des Vereins fÃ¼r vaterlÃ¤ndische Naturkunde in WÃ¼rttemberg
+-  **JWAS** - Journal of the Washington Academy of Sciences
+-  **JZN** - Jenaische Zeitschrift fÃ¼r Naturwissenschaft
+
+## L - N ##
+
+-  **Leukemia** - Leukemia
+- **LE** - Landscape Ecology
+-  **LL** - Leukemia & Lymphoma
+-  **LN** - Lecture Notes in Biomathematics
+-  **LN** - Lecture Notes in Computer Science
+-  **LN** - Lecture Notes in Mathematics
+-  **LN** - Lecture Notes in Pure and Applied Mathematics
+-  **LaNC** - Lettere al Nuovo Cimento
+-  **LA** - The Lancet
+-  **LO** - The Lancet Oncology
+-  **LOM** - Limnology and Oceanography: Methods
+- **MJ** - Malaria Journal
+-  **MS** - Management Science
+-  **MA** - Mathematische Annalen
+-  **MB** - Mathematical Biosciences
+-  **MBEn** - Mathematical Biosciences and Engineering
+- **medRxiv** - medRxiv
+-  **MBE** - Molecular Biology and Evolution
+-  **MBio** - mBio
+-  **MBiome** - Microbiome
+-  **MBS** - Molecular BioSystems
+-  **MC** - Molecular Cell
+-  **MCT** - Molecular Cancer Therapeutics
+-  **MCM** - Mathematical and Computer Modelling
+-  **MD** - Macroeconomic Dynamics
+-  **MDPILife** - MDPI Life
+-  **Meccanica** - Meccanica
+-  **MEE** - Methods in Ecology and Evolution
+-  **MICE** - Microbial Ecology
+-  **ME** - Molecular Ecology
+-  **MP** - Molecular Pharmaceutics
+-  **MGE** - Mobile Genetic Elements
+-  **MI** - Microbes and Infection
+-  **Microbiology** - Microbiology
+-  **Mimeo** - Mimeo
+-  **MIT** - MIT Sloan School of Management Working Paper
+-  **MMB** - Methods in Molecular Biology
+-  **MMBR** - Microbiology and Molecular Biology Reviews
+- **MAST** - Multiagent System Technology
+-  **MMI** - Molecular Microbiology
+-  **MMS** - Multiscale Modeling and Simulation
+-  **MSB** - Molecular Systems Biology
+-  **MSphere** - mSphere
+-  **MSYS** - mSystems
+-  **NArwa** - Nonlinear Analysis: Real World Applications
+-  **Nonlinearity** - Nonlinearity
+-  **Nature** - Nature
+-  **NatCom** - Nature Communications
+-  **NatCB** - Nature Cell Biology
+-  **NatEE** - Nature ecology and evolution
+-  **NatProt** - Nature Protocols
+-  **NB** - Nature biotechnology
+-  **ND** - Nonlinear Dynamics
+-  **NEJM** - The New England Journal of Medicine
+-  **NG** - Nature Genetics
+-  **NJP** - New Journal of Physics
+-  **NJZ** - Netherlands Journal of Zoology
+-  **NM** - Nature Medicine
+-  **NMeth** - Nature Methods
+-  **NMicro** - Nature Microbiology
+-  **NMotil** - Neurogastroenterology {\&} Motility
+-  **NRC** - Nature Reviews Cancer
+-  **NRCO** - Nature Reviews Clinical Oncology
+-  **NRGH** - Nature Reviews Gastroenterology and Hepatology
+-  **NRG** - Nature Reviews Genetics
+-  **NRI** - Nature Reviews Immunology
+-  **NRM** - Nature Reviews Microbiology
+-  **NRMCB** - Nature Reviews Molecular Cell Biology
+-  **NP** - New Phytologist
+-  **NS** - New Scientist
+-  **NAR** - Nucleic Acids Research
+
+## O - P ##
+
+-  **OB** - Open Biology
+-  **OBHDP** - Organizational Behavior and Human Decision Processes
+-  **OEC** - Oecologia
+-  **OIKOS** - OIKOS
+-  **OLEB** - Origins of Life and Evolution of the Biosphere
+-  **OMB** - Oceanography and Marine Biology
+-  **Oncogene** - Oncogene
+-  **ONC**  - Oncology
+-  **ONT**  - Oncotarget
+-  **P** - Plants
+-  **PA** - Physica A
+-  **PAMS** - Proceedings of the American Mathematical Society
+-  **PB** - Physikalische BlÃ¤tter
+-  **PBECO** - Population Biology and Evolution of Clonal Organisms
+-  **PBS** - Proceedings: Biological Sciences
+-  **PC** - Philosophy Compass
+-  **PCM** - Proceedings of the Fifth International Congress of Mathematicians
+-  **PCPS** - Proceedings of the Cambridge Philosophical Society
+-  **PD** - Physica D
+-  **PeerJ** - PeerJ
+-  **PEIS** - Probability in the Engineering and Informational Sciences
+-  **PG** - Proceedings GECCO
+-  **PGH** - Pathogens and global health
+-  **phdthesis** - PhD Thesis
+-  **PHYTO** - Phytopathology
+-  **PhysB** - Physical Biology
+-  **PIBBS** - Policy Insights from the Behavioral and Brain Sciences
+-  **PIEEE** - Proceedings of the IEEE
+-  **PLA** - Physics Letters A
+-  **PLoSB** - PloS Biology
+-  **PlosG** - PLoS Genetics
+-  **PlosCB** - PLoS Computational Biology
+-  **PLosOne** - PLos One
+-  **PLosPath** - PLoS Pathogens
+-  **PLR** - Physics of Life Reviews
+-  **PMHAS** - Publ. Math. Inst. Hung. Acad. Sci.
+-  **PMPSC** - Proc. Midwest Political Science Convention
+-  **PMS** - Pest Mangement Science
+-  **PNAS** - Proceedings of the National Academy of Sciences USA
+-  **PoliticalStudies** - Politikal Studies
+-  **PoS** - Philosophy of Science
+-  **PP** - Plant Pathology
+-  **PR** - Physics Reports
+-  **PRA** - Physical Review A
+-  **PRB** - Physical Review B
+-  **PRE** - Physical Review E
+-  **PRX** - Physical Review X
+-  **PRL** - Phys. Rev. Lett.
+-  **ParaR** - Parasitology research
+- ** ProbS** - Probability Surveys
+-  **PRR** - Physical Review (journal until 1969, Later PRL and PRA-E)
+-  **PRS** - Plastic and reconstructive surgery
+-  **PRSB** - Proc. Royal Soc. Lond. B. (full name: Proceedings of the Royal Society B: Biological Sciences)
+-  **PRSE** - Proceedings of the Royal Society of Edinburgh
+-  **PS** - Poultry Science
+-  **PsyBull** - Psychological Bulletin
+-  **PsyS** - Psychological science
+-  **Psychoneuroendocrinology** - Psychoneuroendocrinology
+-  **PT** - Psychology Today
+-  **PTP** - Progress of Theoretical Physics
+-  **PTPB** - Philosophy, Theory, and Practice in Biology
+-  **PTRSB** - Philosophical Transactions of the Royal Society B
+-  **PTENHS** - Proceedings and Transactions of the South London Entomological Natural History Society
+-  **PtT** - Parasitology today
+-  **PV** - Parasites & vectors
+-  **PVM** - Preventive Veterinary Medicine
+-  **QJE** - Quarterly Journal of Economics
+-  **QRB** - Quarterly Review of biology
+
+## R - T ##
+
+-  **RCMP** - Rendiconti del Circolo Matematico di Palermo
+- **RSq** - Research Square
+-  **RES** - Review of Economic Studies
+-  **RevMedVir** - Reviews in Medical Virology
+-  **RIS** - Report - Information systems
+-  **RMP** - Review of Modern Physics
+-  **RPE** - Researches on Population Ecology
+-  **RPP** - Reports on Progress in Physics
+-  **RS** - Rationality and Society
+-  **RSA** - Random Structures and Algorithms
+-  **S** - Sustainability
+-  **Sadhana** - Sadhana
+-  **SA** - Scientific American
+-  **SAJB** - South African Journal of Botany
+-  **SBB** - Soil Biology and Biochemistry
+-  **SciRep** - Scientific Reports
+-  **Scholarpedia** - Scholarpedia
+-  **SFI** - Santa Fe Institute Workingpaper
+-  **SC** - Stem Cells
+-  **SCD** - Stem Cells Developement
+-  **SCI** - Stem Cell Investigation
+-  **SCSI** - Stem Cells International
+-  **SciAdv** - Science Advances
+-  **Science** - Science
+-  **STM** - Science Translational Medicine
+-  **Selection** - Selection
+-  **SCB** - Seminars in Cancer Biology
+-  **SHPBBS** - Studies in History and Philosophy of Biological and Biomedical Sciences
+-  **SI** - Seminars in Immunology
+-  **SIAMR** - SIAM Review
+-  **SIAMAP** - SIAM Journal of Applied Mathematics
+-  **SIAMNA** - SIAM Journal on Numerical Analysis
+-  **SM** - Science and Medicine
+-  **SN** - Social Networks
+-  **SocEpi** - Social Epistemology: A Journal of Knowledge, Culture and Policy
+-  **SocF** - Social Forces
+-  **SP** - Stochastic Processes and Their Applications
+-  **SPL** - Statistics and Probability Letters
+-  **StatS** - Statistical Science
+-  **STE** - Science of the Total Environment
+-  **SZ** - Sueddeutsche Zeitung
+-  **TO** - Translational Oncology
+-  **TAG** - Theoretical and Applied Genetics
+-  **TAM** - The American Mathematical Monthly
+-  **TB** - Trends in Biotechnology
+-  **TC** - Trends in Cancer
+-  **TCE** - The Canadian Entomologist
+-  **TCS** - Trends in Cognitive Sciences
+-  **TD** - Theory and Decision
+-  **TE** - Theoretical Ecology
+-  **TEE** - Trends in Ecology and Evolution
+-  **TEM** - Trends in Endocrinology & Metabolism
+-  **TG** - Trends in Genetics
+-  **TM** - Trends in Microbiology
+-  **TI** - Trends in Immunology
+-  **TRP** - Trends in Parasitology
+-  **TPB** - Theoretical Population Biology
+-  **TPC** - The Plant Cell
+-  **TREE** - Transactions of the Royal Society of Edinburgh
+-  **TREE** - TREE
+- **TOMACS** - ACM Transactions on Modeling and Computer Simulation
+
+## U - Z ##
+
+-  **UV** - University of Vienna
+-  **VEM** - Vie Et Milieu-Life and Environment
+-  **VHS** - Vital and Health Statistics
+-  **VIR** - Virology
+-  **VIRU** - Viruses
+-  **VNVB** - Verhandlungen des Naturforscher-Vereins in Brunn
+-  **W** - Weeds
+-  **WA** - Website article
+-  **WIR** - Wiley Interdisciplinary Reviews: Computational Statistics
+-  **WR** - Weed Research
+-  **WS** - Weed Science
+-  **WT** - Weed Technology
+-  **YPA** - Yearbook of Physical Anthropology
+-  **ZGS** - Zeitschrift fÃ¼r die gesamte Staatswissenschaft
+-  **Zoology** - Zoology
+-  **ZoologZhurnal** - ZoologZhurnal
+-  **ZP** - Zeitschrift fÃ¼r Physik
+-  **ZT** - Zeitschrift fÃ¼r Tierpsychologie
