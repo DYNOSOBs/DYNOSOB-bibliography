@@ -1,14 +1,15 @@
 name: BIB
+
 on: [push]
+
 jobs:
   build:
-
     runs-on: ${{ matrix.os }}
     strategy:
       max-parallel: 1
       matrix:
-        os: [macOS-latest]
-        python-version: [3.8]
+        os: [ubuntu-latest]
+        python-version: ["3.8"]
 
     steps:
     - uses: actions/checkout@v1
@@ -16,16 +17,10 @@ jobs:
       uses: actions/setup-python@v1
       with:
         python-version: ${{ matrix.python-version }}
-    - name: Install bibtexparser
+    - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -r requirements.txt
-    - name: Compile bibliography
+        python -m pip install -r requirements.txt
+    - name: Run script
       run: |
         python main.py
-      - uses: nikoleta_v3/git-auto-commit-action@v4
-        with:
-          commit_message: "[Bot] Compiled bibliography!"
-          commit_user_name: Nikoleta_v3
-          commit_user_email: glynatsi@evolbio.mpg.de
-          commit_author: Nikoleta_v3
