@@ -2,10 +2,14 @@ name: BIB
 on: [push]
 jobs:
   build:
+
     runs-on: ${{ matrix.os }}
+    strategy:
+      max-parallel: 1
       matrix:
         os: [macOS-latest]
-        python-version: [3.8]
+        python-version: [3.7]
+
     steps:
     - uses: actions/checkout@v1
     - name: Set up Python ${{ matrix.python-version }}
