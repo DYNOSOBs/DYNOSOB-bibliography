@@ -6,7 +6,7 @@ import numpy as np
 
 
 def read_files_write_raw_bib():
-    files = glob.glob("assets/*.txt")
+    files = glob.glob("assets/*")
 
     bibliography = ""
 
