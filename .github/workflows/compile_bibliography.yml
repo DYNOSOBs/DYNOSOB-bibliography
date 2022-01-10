@@ -8,7 +8,7 @@ jobs:
       max-parallel: 1
       matrix:
         os: [macOS-latest]
-        python-version: [3.7]
+        python-version: [3.8]
 
     steps:
     - uses: actions/checkout@v1
@@ -19,7 +19,7 @@ jobs:
     - name: Install bibtexparser
       run: |
         python -m pip install --upgrade pip
-        python -m pip install bibtexparser
+        pip install -r requirements.txt
     - name: Compile bibliography
       run: |
         python main.py
