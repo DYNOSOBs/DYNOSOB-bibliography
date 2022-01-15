@@ -4,6 +4,8 @@ import bibtexparser
 
 import numpy as np
 
+import re
+
 
 def read_files_write_raw_bib():
     files = glob.glob("assets/*")
@@ -14,6 +16,14 @@ def read_files_write_raw_bib():
         with open(file, "r") as f:
             entry = f.read()
             bibliography += entry + "\n"
+            
+    months = re.findall(r"(?<=month = ).*?(?=,)", bibliography)
+
+    not_edited = [m for m in months if "{" not in m]
+
+    for month in not_edited:
+        bibliography = bibliography.replace(month + ",",
+                                            "{" + month.title() + "},")
 
     with open("bibtex.bib", "w") as bibfile:
         bibfile.write(bibliography)
