@@ -39,7 +39,9 @@ def prepare_bibliography():
     for entry in bib_database.entries:
         key = entry["ID"]
         key = key.split(":")
-        key = key[0].lower() + ":" + key[1] + ":" + key[2]
+        if len(key) < 2:
+            print(f"Note that entry: {key} does not follow key convention.")
+        key = key[0].lower() + ":" + ":".join(key[1:])
         entry["ID"] = key
 
     keys = [v["ID"] for v in bib_database.entries]
@@ -48,25 +50,20 @@ def prepare_bibliography():
     # keep unique entries
     entries = [bib_database.entries[i] for i in unique_indices]
 
-    # keep unique comments
-    comments = [bib_database.comments[i] for i in unique_indices]
-
     sorted_indices = [
         i[0] for i in sorted(enumerate(entries), key=lambda x: x[1]["ID"])
     ]
 
     sorted_entries = [entries[i] for i in sorted_indices]
 
-    sorted_comments = [comments[i] for i in sorted_indices]
-
     # title "ID"
     for entry in sorted_entries:
         key = entry["ID"]
         key = key.split(":")
-        key = key[0].title() + ":" + key[1] + ":" + key[2]
+        key = key[0].title() + ":" + ":".join(key[1:])
         entry["ID"] = key
 
-    return sorted_entries, sorted_comments, bib_database
+    return sorted_entries, bib_database
 
 
 def comment_to_bibtex(comment, words_per_line=11):
@@ -106,10 +103,10 @@ def entry_to_bibtex(entry):
     return bibtex
 
 
-def export_bib(entries, comments):
+def export_bib(entries):
     with open("bibtex.bib", "w") as bibfile:
-        for comment, entry in zip(comments, entries):
-            to_write = f"{comment_to_bibtex(comment)}\n{entry_to_bibtex(entry)}"
+        for entry in entries:
+            to_write = f"{entry_to_bibtex(entry)}\n"
             bibfile.write(to_write)
     return True
 

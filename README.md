@@ -45,6 +45,8 @@ An example of an entry:
 
 ## How to add comments
 
+**CURRENTLY COMMENTS ARE NOT BEING WRITTEN IN THE BIB FILE**
+
 To add a comment to your entry use the format `@comment{<your text>}` and make
 sure your comment is above the entry as shown in the example.
 
