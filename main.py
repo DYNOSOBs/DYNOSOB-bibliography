@@ -116,9 +116,9 @@ if __name__ == "__main__":
     wrote = read_files_write_raw_bib()
 
     if wrote:
-        entries, comments, db = prepare_bibliography()
+        entries, db = prepare_bibliography()
 
-    exported = export_bib(entries, comments)
+    exported = export_bib(entries)
 
     if exported == False:
         print("Export failed.")
