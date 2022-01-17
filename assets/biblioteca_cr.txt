@@ -20,7 +20,7 @@
   publisher={Nature Publishing Group}
 }
 
-@article{chen2016otree,
+@article{chen:JBEF:2016,
   title={oTree--An open-source platform for laboratory, online, and field experiments},
   author={Chen, Daniel L and Schonger, Martin and Wickens, Chris},
   journal={Journal of Behavioral and Experimental Finance},
@@ -30,7 +30,7 @@
   publisher={Elsevier}
 }
 
-@article{palan2018prolific,
+@article{palan:JBEF:2018,
   title={Prolific. ac--A subject pool for online experiments},
   author={Palan, Stefan and Schitter, Christian},
   journal={Journal of Behavioral and Experimental Finance},
@@ -40,7 +40,7 @@
   publisher={Elsevier}
 }
 
-@article{rossetti2021mis,
+@article{rossetti:COP:2021,
   title={(Mis-) perceiving cooperativeness},
   author={Rossetti, Charlotte and Hilbe, Christian and Hauser, Oliver P},
   journal={Current Opinion in Psychology},
@@ -48,7 +48,7 @@
   publisher={Elsevier}
 }
 
-@article{nowak2006five,
+@article{nowak:Science:2006,
   title={Five rules for the evolution of cooperation},
   author={Nowak, Martin A},
   journal={science},
