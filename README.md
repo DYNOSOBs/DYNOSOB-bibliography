@@ -91,5 +91,5 @@ which will open up an editor for you to write your commit.
 Once everything is committed push your changes to `GitHub` using the command:
 
 ```shell
-git push origin master
+git push origin main
 ```
