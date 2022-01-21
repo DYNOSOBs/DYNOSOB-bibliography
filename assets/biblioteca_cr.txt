@@ -1,0 +1,126 @@
+@article{donahue:NatCom:2020,
+  title={Evolving cooperation in multichannel games},
+  author={Donahue, Kate and Hauser, Oliver P and Nowak, Martin A and Hilbe, Christian},
+  journal={Nature communications},
+  volume={11},
+  number={1},
+  pages={1--9},
+  year={2020},
+  publisher={Nature Publishing Group}
+}
+
+@article{reiter:NatCom:2018,
+  title={Crosstalk in concurrent repeated games impedes direct reciprocity and requires stronger levels of forgiveness},
+  author={Reiter, Johannes G and Hilbe, Christian and Rand, David G and Chatterjee, Krishnendu and Nowak, Martin A},
+  journal={Nature communications},
+  volume={9},
+  number={1},
+  pages={1--8},
+  year={2018},
+  publisher={Nature Publishing Group}
+}
+
+@article{chen:JBEF:2016,
+  title={oTree--An open-source platform for laboratory, online, and field experiments},
+  author={Chen, Daniel L and Schonger, Martin and Wickens, Chris},
+  journal={Journal of Behavioral and Experimental Finance},
+  volume={9},
+  pages={88--97},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{palan:JBEF:2018,
+  title={Prolific. ac--A subject pool for online experiments},
+  author={Palan, Stefan and Schitter, Christian},
+  journal={Journal of Behavioral and Experimental Finance},
+  volume={17},
+  pages={22--27},
+  year={2018},
+  publisher={Elsevier}
+}
+
+@article{rossetti:COP:2021,
+  title={(Mis-) perceiving cooperativeness},
+  author={Rossetti, Charlotte and Hilbe, Christian and Hauser, Oliver P},
+  journal={Current Opinion in Psychology},
+  year={2021},
+  publisher={Elsevier}
+}
+
+@article{nowak:Science:2006,
+  title={Five rules for the evolution of cooperation},
+  author={Nowak, Martin A},
+  journal={science},
+  volume={314},
+  number={5805},
+  pages={1560--1563},
+  year={2006},
+  publisher={American Association for the Advancement of Science}
+}
+
+
+@article{dal:AER:2011,
+  title={The evolution of cooperation in infinitely repeated games: Experimental evidence},
+  author={Dal B{\'o}, Pedro and Fr{\'e}chette, Guillaume R},
+  journal={American Economic Review},
+  volume={101},
+  number={1},
+  pages={411--29},
+  year={2011}
+}
+
+@article{dal:JEL:2018,
+  title={On the determinants of cooperation in infinitely repeated games: A survey},
+  author={Dal B{\'o}, Pedro and Fr{\'e}chette, Guillaume R},
+  journal={Journal of Economic Literature},
+  volume={56},
+  number={1},
+  pages={60--114},
+  year={2018}
+}
+
+@article{embrey:QJE:2018,
+  title={Cooperation in the finitely repeated prisoner?s dilemma},
+  author={Embrey, Matthew and Fr{\'e}chette, Guillaume R and Yuksel, Sevgi},
+  journal={The Quarterly Journal of Economics},
+  volume={133},
+  number={1},
+  pages={509--551},
+  year={2018},
+  publisher={Oxford University Press}
+}
+
+@article{andreoni:EJ:1993,
+  title={Rational cooperation in the finitely repeated prisoner's dilemma: Experimental evidence},
+  author={Andreoni, James and Miller, John H},
+  journal={The economic journal},
+  volume={103},
+  number={418},
+  pages={570--585},
+  year={1993},
+  publisher={JSTOR}
+}
+
+@article{boyd:Nature:1987,
+  title={No pure strategy is evolutionarily stable in the repeated prisoner's dilemma game},
+  author={Boyd, Robert and Lorberbaum, Jeffrey P},
+  journal={Nature},
+  volume={327},
+  number={6117},
+  pages={58--59},
+  year={1987},
+  publisher={Nature Publishing Group}
+}
+
+
+@article{fehl:EL:2011,
+  title={Co-evolution of behaviour and social network structure promotes human cooperation},
+  author={Fehl, Katrin and van der Post, Daniel J and Semmann, Dirk},
+  journal={Ecology letters},
+  volume={14},
+  number={6},
+  pages={546--551},
+  year={2011},
+  publisher={Wiley Online Library}
+}

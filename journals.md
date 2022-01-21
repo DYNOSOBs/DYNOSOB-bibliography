@@ -159,6 +159,7 @@
 -  **COSB** - Current Opinion in Structural Biology
 -  **COBS** - Current Opinion in Behavioral Sciences
 -  **COSysB** - Current Opinion in Systems Biology
+-  **COP** - Current Opinion in Psychology
 -  **COPB** - Current Opinion in Plant Biology
 -  **Connections** - Connections
 -  **CoPrCo** - Combinatorics -  Probability and Computing
@@ -329,6 +330,7 @@
 -  **JBA** - Journal of Bacteriology
 -  **JBC** - Journal of Biological Chemistry
 -  **JBD** - Journal of Biological Dynamics
+-  **JBEF** - Journal of Behavioural and Experimental Finance
 -  **JBio** - Journal of Biology
 -  **JCB** - The Journal of Cell Biology
 -  **JCE** - Journal of Chemical Ecology
