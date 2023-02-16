@@ -1,0 +1,267 @@
+@article{Sekiguchi:PA:2013,
+	author = {Sekiguchi, Takuya},
+	doi = {10.1016/j.physa.2013.03.004},
+	issn = {03784371},
+	journal = {Physica A: Statistical Mechanics and its Applications},
+	keywords = {Finite population,Mutation-selection balance,Stochastic evolutionary game dynamics,Updating rule},
+	number = {13},
+	pages = {2886--2892},
+	publisher = {Elsevier B.V.},
+	title = {{General conditions for strategy abundance through a self-referential mechanism under weak selection}},
+	url = {http://dx.doi.org/10.1016/j.physa.2013.03.004},
+	volume = {392},
+	year = {2013}
+}
+
+@article{Sekiguchi:DGAA:2022,
+	author = {Sekiguchi, Takuya},
+	doi = {10.1007/s13235-022-00458-8},
+	issn = {21530793},
+	journal = {Dynamic Games and Applications},
+	keywords = {Coordination game,Evolutionary game theory,Finite populations,Fish in troubled waters game,Impartial person and mediator game,Stochastic stability},
+	publisher = {Springer US},
+	title = {{Fixation Probabilities of Strategies for Trimatrix Games and Their Applications to Triadic Conflict}},
+	url = {https://doi.org/10.1007/s13235-022-00458-8},
+	year = {2022}
+}
+
+@article{McAvoy:PlosCB:2015,
+	author = {McAvoy, Alex and Hauert, Christoph},
+	doi = {10.1371/journal.pcbi.1004349},
+	issn = {15537358},
+	journal = {PLoS Computational Biology},
+	number = {8},
+	pages = {1--26},
+	pmid = {26308326},
+	title = {{Asymmetric Evolutionary Games}},
+	volume = {11},
+	year = {2015},
+	bdsk-url-1 = {https://doi.org/10.1371/journal.pcbi.1004349}}
+
+@article{Hofbauer:GEB:2005,
+	author = {Hofbauer, Josef and Hopkins, Ed},
+	doi = {10.1016/j.geb.2004.06.006},
+	issn = {08998256},
+	journal = {Games and Economic Behavior},
+	keywords = {Best response dynamics,Games,Learning,Mixed strategy equilibria,Potential games,Stochastic fictitious play,Zero sum games},
+	number = {1},
+	pages = {133--152},
+	title = {{Learning in perturbed asymmetric games}},
+	volume = {52},
+	year = {2005}
+}
+
+@article{Su:PNAS:2022,
+author = {Su, Qi and McAvoy, Alex and Plotkin, Joshua B.},
+doi = {10.1126/sciadv.abm6066},
+issn = {23752548},
+journal = {Science Advances},
+mendeley-groups = {Heterogeneity diversity asymmetry inequality},
+number = {6},
+pages = {1--11},
+pmid = {35138905},
+title = {{Evolution of cooperation with contextualized behavior}},
+volume = {8},
+year = {2022}
+}
+
+@article{Duong:DGAA:2020,
+author = {Duong, Manh Hong and Han, The Anh},
+doi = {10.1007/s13235-019-00338-8},
+issn = {21530793},
+journal = {Dynamic Games and Applications},
+keywords = {Evolutionary game theory,Multi-player multi-strategy games,Replicator–mutator dynamics,Social dilemmas},
+mendeley-groups = {Multiplayer games},
+number = {3},
+pages = {641--663},
+publisher = {Springer US},
+title = {{On Equilibrium Properties of the Replicator–Mutator Equation in Deterministic and Random Games}},
+url = {https://doi.org/10.1007/s13235-019-00338-8},
+volume = {10},
+year = {2020}
+}
+
+@article{Chalub:BMB:2019,
+arxivId = {1801.02550},
+author = {Chalub, Fabio A.C.C. and Souza, Max O.},
+doi = {10.1007/s11538-018-00566-w},
+eprint = {1801.02550},
+isbn = {1153801800566},
+issn = {15229602},
+journal = {Bulletin of Mathematical Biology},
+keywords = {Fixation probability,Game theory,Inverse problems,Wright–Fisher process},
+number = {11},
+pages = {4625--4642},
+pmid = {30635836},
+publisher = {Springer US},
+title = {{From Fixation Probabilities to d-player Games: An Inverse Problem in Evolutionary Dynamics}},
+url = {https://doi.org/10.1007/s11538-018-00566-w},
+volume = {81},
+year = {2019}
+}
+
+@article{Taylor:JAP:1979, 
+title={Evolutionarily stable strategies with two types of player}, 
+volume={16}, 
+DOI={10.2307/3213376}, 
+number={1}, 
+journal={Journal of Applied Probability}, 
+publisher={Cambridge University Press}, 
+author={Taylor, Peter D.}, 
+year={1979}, 
+pages={76–83}}
+
+@article{Pangallo:GEB:2022,
+	author = {Pangallo, Marco and Sanders, James B.T. and Galla, Tobias and Farmer, J. Doyne},
+	date-modified = {2021-12-28 13:13:59 +0100},
+	doi = {10.1016/j.geb.2021.11.015},
+	issn = {08998256},
+	journal = {Games and Economic Behavior},
+	keywords = {behavioural game theory},
+	pages = {1--21},
+	publisher = {Elsevier Inc.},
+	title = {Towards a taxonomy of learning dynamics in $2\times2$ games},
+	url = {https://doi.org/10.1016/j.geb.2021.11.015},
+	volume = {132},
+	year = {2022},
+	bdsk-url-1 = {https://doi.org/10.1016/j.geb.2021.11.015}}
+
+@article{Pattni:JTB:2017,
+author = {Pattni, Karan and Broom, Mark and Rycht{\'{a}}ř, Jan},
+doi = {10.1016/j.jtbi.2017.06.034},
+issn = {10958541},
+journal = {Journal of Theoretical Biology},
+mendeley-groups = {Multiplayer games},
+pages = {105--115},
+pmid = {28666764},
+title = {{Evolutionary dynamics and the evolution of multiplayer cooperation in a subdivided population}},
+volume = {429},
+year = {2017}
+}
+
+@article{Couto:NJP:2022,
+author = {Couto, Marta C. and Giaimo, Stefano and Hilbe, Christian},
+doi = {10.1088/1367-2630/ac6f76},
+issn = {1367-2630},
+journal = {New Journal of Physics},
+keywords = {asymmetric games,counterfactual learning,evolutionary game theory,myopic updating,s,social dilemmas,volunteer,volunteer's dilemma},
+number = {6},
+pages = {63010},
+publisher = {IOP Publishing},
+title = {{Introspection dynamics: A simple model of counterfactual learning in asymmetric games}},
+url = {https://doi.org/10.1088/1367-2630/ac6f76},
+volume = {24},
+year = {2022}
+}
+
+@article{Broom:JTB:2012,
+author = {Broom, Mark and Rycht{\'{a}}ř, Jan},
+doi = {10.1016/j.jtbi.2012.02.025},
+issn = {00225193},
+journal = {Journal of Theoretical Biology},
+keywords = {Evolution,Game theory,Structured populations,Territory},
+pages = {70--80},
+pmid = {22406262},
+title = {{A general framework for analysing multiplayer games in networks using territorial interactions as a case study}},
+volume = {302},
+year = {2012}
+}
+
+@article{Baron:JRSOP:2018,
+author = {Baron, Joseph W. and Galla, Tobias},
+doi = {10.1098/rsos.172176},
+issn = {20545703},
+journal = {Royal Society Open Science},
+keywords = {Evolutionary games,Fixation dynamics,Sojourn times,Switching environments},
+number = {3},
+title = {{How successful are mutants in multiplayer games with fluctuating environments? Sojourn times, fixation and optimal switching}},
+volume = {5},
+year = {2018}
+}
+
+@article{Molina:JMB:2017,
+author = {Molina, Chai and Earn, David J.D.},
+doi = {10.1007/s00285-016-1017-1},
+issn = {14321416},
+journal = {Journal of Mathematical Biology},
+keywords = {Adaptive dynamics,Cooperation,Evolutionary game theory,Snowdrift game},
+number = {1-2},
+pages = {499--529},
+pmid = {27299901},
+publisher = {Springer Berlin Heidelberg},
+title = {{Evolutionary stability in continuous nonlinear public goods games}},
+volume = {74},
+year = {2017}
+}
+
+@incollection{Tuyls:bookchapter:2005,
+abstract = {In this paper we revise Reinforcement Learning and adaptiveness in Multi-Agent Systems from an Evolutionary Game Theoretic perspective. More precisely we show there is a triangular relation between the fields of Multi-Agent Systems, Reinforcement Learning and Evolutionary Game Theory. We illustrate how these new insights can contribute to a better understanding of learning in MAS and to new improved learning algorithms. All three fields are introduced in a self-contained manner. Each relation is discussed in detail with the necessary background information to understand it, along with major references to relevant work. {\textcopyright} 2005 Springer.},
+author = {Tuyls, Karl and Nowe, Ann and Lenaerts, Tom and Manderick, Bernard},
+booktitle = {Information, Interaction, and Agency},
+doi = {10.1007/1-4020-4094-6_5},
+isbn = {1402036000},
+pages = {133--166},
+title = {{An evolutionary game theoretic perspective on learning in multi-agent systems}},
+year = {2005}
+}
+
+@article{Tuyls:SciRep:2018,
+	archivePrefix = {arXiv},
+	arxivId = {1711.05074},
+	author = {Tuyls, Karl and P{\'{e}}rolat, Julien and Lanctot, Marc and Ostrovski, Georg and Savani, Rahul and Leibo, Joel Z. and Ord, Toby and Graepel, Thore and Legg, Shane},
+	doi = {10.1038/s41598-018-19194-4},
+	eprint = {1711.05074},
+	issn = {20452322},
+	journal = {Scientific Reports},
+	number = {1},
+	pages = {1--20},
+	pmid = {29343692},
+	title = {{Symmetric Decomposition of Asymmetric Games}},
+	volume = {8},
+	year = {2018}
+}
+
+@article{Barfuss:PNAS:2020,
+abstract = {We will need collective action to avoid catastrophic climate change, and this will require valuing the long term as well as the short term. Shortsightedness and uncertainty have hindered progress in resolving this collective action problem and have been recognized as important barriers to cooperation among humans. Here, we propose a coupled social–ecological dilemma to investigate the interdependence of three well-identified components of this cooperation problem: 1) timescales of collapse and recovery in relation to time preferences regarding future outcomes, 2) the magnitude of the impact of collapse, and 3) the number of actors in the collective. We find that, under a sufficiently severe and time-distant collapse, how much the actors care for the future can transform the game from a tragedy of the commons into one of coordination, and even into a comedy of the commons in which cooperation dominates. Conversely, we also find conditions under which even strong concern for the future still does not transform the problem from tragedy to comedy. For a large number of participating actors, we find that the critical collapse impact, at which these game regime changes happen, converges to a fixed value of collapse impact per actor that is independent of the enhancement factor of the public good, which is usually regarded as the driver of the dilemma. Our results not only call for experimental testing but also help explain why polarization in beliefs about human-caused climate change can threaten global cooperation agreements.
+This work was developed in the context of the project on Coevolutionary Pathways in the Earth System at the Potsdam Institute for Climate Impact Research (PIK), within the Princeton–Humboldt Cooperation and Collective Cognition Network, and the Princeton–Stockholm Resilience Centre–PIK Resilience Network. This work emerged from one chapter of the doctoral dissertation of W.B. W.B. acknowledges funding from the Heinrich B{\"{o}}ll Foundation. J.F.D. acknowledges funding from Earth League's EarthDoc program, European Research Council Advanced Grant Project Earth Resilience in the Anthropocene, and Leibniz Association Project DominoES (Domino effects in the Earth system). V.V.V. acknowledges funding from the Princeton Institute for International and Regional Studies, Rapid Switch Community. S.A.L. and V.V.V. acknowledge funding by the US Defense Advanced Research Projects Agency (D17AC00005) and the NSF Grant GEO-1211972. We thank Jobst Heitzig for insightful discussions.},
+author = {Barfuss, Wolfram and Donges, Jonathan F. and Vasconcelos, V{\'{i}}tor V. and Kurths, J{\"{u}}rgen and Levin, Simon A.},
+doi = {10.1073/pnas.1916545117},
+issn = {10916490},
+journal = {Proceedings of the National Academy of Sciences of the United States of America},
+keywords = {Social dilemma,Stochastic game,Time preferences,Tipping element},
+number = {23},
+pages = {12915--12922},
+pmid = {32434908},
+title = {{Caring for the future can turn tragedy into comedy for long-term collective action under risk of collapse}},
+volume = {117},
+year = {2020}
+}
+
+@article{Pal:NatCom:2022,
+abstract = {People routinely cooperate with each other, even when cooperation is costly. To further encourage such pro-social behaviors, recipients often respond by providing additional incentives, for example by offering rewards. Although such incentives facilitate cooperation, the question remains how these incentivizing behaviors themselves evolve, and whether they would always be used responsibly. Herein, we consider a simple model to systematically study the co-evolution of cooperation and different rewarding policies. In our model, both social and antisocial behaviors can be rewarded, but individuals gain a reputation for how they reward others. By characterizing the game's equilibria and by simulating evolutionary learning processes, we find that reputation effects systematically favor cooperation and social rewarding. While our baseline model applies to pairwise interactions in well-mixed populations, we obtain similar conclusions under assortment, or when individuals interact in larger groups. According to our model, rewards are most effective when they sway others to cooperate. This view is consistent with empirical observations suggesting that people reward others to ultimately benefit themselves.},
+author = {Pal, Saptarshi and Hilbe, Christian},
+doi = {10.1038/s41467-022-33551-y},
+issn = {20411723},
+journal = {Nature Communications},
+number = {1},
+pages = {5928},
+pmid = {36207309},
+publisher = {Springer US},
+title = {{Reputation effects drive the joint evolution of cooperation and social rewarding}},
+volume = {13},
+year = {2022}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
